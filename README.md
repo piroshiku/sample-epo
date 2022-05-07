@@ -1,2 +1,1 @@
-# sample-epo
-Git練習用
+更新
